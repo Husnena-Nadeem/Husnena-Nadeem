@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Husnena-Nadeem/Husnena-Nadeem/blob/cc8e80ef7cdde08069e8e19bec881df1ea5b80d0/Black%20and%20Blue%20Artificial%20Intelligence%20Facebook%20Cover%20(1).png" width="100%">
+  <img src="https://github.com/Husnena-Nadeem/Husnena-Nadeem/blob/a9e047a1744bd86d0ffa7f4f2a73d7a7a6aa71dc/Black%20and%20Blue%20Artificial%20Intelligence%20Facebook%20Cover%20(2).png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Husnena-Nadeem</h1>
